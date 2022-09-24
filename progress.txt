@@ -1,2 +1,2 @@
 Finished Part 8.2
-Now on Part 8.3
+Now on Part 8.3 - Display clicked games
